@@ -111,7 +111,7 @@ export default {
 
 <style scoped>
 .hide-scroll::-webkit-scrollbar {
-  background: transparent;
+  width: 0px;
 }
 
 </style>
